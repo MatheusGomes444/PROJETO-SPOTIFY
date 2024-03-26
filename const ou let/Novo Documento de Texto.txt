@@ -1,0 +1,7 @@
+const é usado quando é um numero fixo, só vai ser utilizado quando n for mudar o numero
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+let é usado quando o numero  pode mudar durante a programação
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+const é para constante, let é para variavel e var é o uso antigo pra variável
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Let = Vai mudar com o tempo, Const = Não pode mudar mais
